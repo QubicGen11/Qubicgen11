@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for **Qubicgen**! We are a forward-thi
 
 ---
 
-![Creative Banner](./assets/banner.png)
+(https://media.licdn.com/dms/image/v2/D5616AQEjVz42g_8H3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716278099667?e=1730332800&v=beta&t=JK4udoLnBk1D9NRIKcrkHZOlkMtAgsnPmNL2uRBDtVM)
 
 ## 🌟 Our Vision
 
