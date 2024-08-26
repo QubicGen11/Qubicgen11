@@ -1,4 +1,4 @@
-# ![Qubicgen Logo](https://qubicgen.com/assets/og-CWlc-vx7.png) Qubicgen GitHub Repository 🌟
+# ![Qubicgen Logo](https://qubicgen.com/assets/og-CWlc-vx7.png) 🌟
 
 Welcome to the official GitHub repository for **Qubicgen**! We are a forward-thinking software company dedicated to crafting innovative solutions across diverse domains like **RPA, SAP, cybersecurity, web development**, and more. Our passion is technology; our goal is excellence. 🚀
 
@@ -29,12 +29,12 @@ Efficiently handle employee records, timesheets, leave management, and payroll. 
 ### 🔒 **Cybersecurity Solutions**
 Protect your data and ensure compliance with our state-of-the-art cybersecurity tools and frameworks. We specialize in **OWASP**, **SIEM Tools**, and **Penetration Testing**.
 
-![Cybersecurity](./assets/cybersecurity.png)
+![Cybersecurity](https://res.cloudinary.com/defsu5bfc/image/upload/v1709804890/QubicGen/Home%20Page/What%20We%20Do/3d-internet-secuirty-badge_lhwfci_s4vubk_1_1_1_1_1_fpktfg.jpg)
 
 ### 🌐 **Web Development Projects**
 From single-page applications to complex web platforms, we leverage **React.js**, **Angular**, and other cutting-edge technologies to deliver outstanding web experiences.
 
-![Web Development](./assets/web-development.png)
+![Web Development](https://res.cloudinary.com/defsu5bfc/image/upload/v1709795794/QubicGen/Web%20Development/Overview/medium-shot-woman-working-laptop_23-2150323516_ms6dwf.jpg)
 
 ---
 
