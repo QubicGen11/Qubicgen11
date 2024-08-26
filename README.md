@@ -26,7 +26,7 @@ A comprehensive platform that streamlines school operations with features like s
 ### 🏢 **Employee Management System (EMS)**
 Efficiently handle employee records, timesheets, leave management, and payroll. Developed with a modern stack including **Node.js**, **Express.js**, and **Prisma**.
 
-![EMS Project](./assets/ems-project.png)
+![EMS Project](https://res.cloudinary.com/defsu5bfc/image/upload/v1717239193/Black_and_Brown_Futuristic_LinkedIn_Banner_1_okjs2i.png)
 
 ### 🔒 **Cybersecurity Solutions**
 Protect your data and ensure compliance with our state-of-the-art cybersecurity tools and frameworks. We specialize in **OWASP**, **SIEM Tools**, and **Penetration Testing**.
