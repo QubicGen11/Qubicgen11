@@ -1,4 +1,4 @@
-# ![Qubicgen Logo](./assets/qubicgen-logo.png) Qubicgen GitHub Repository 🌟
+# ![Qubicgen Logo](https://qubicgen.com/assets/og-CWlc-vx7.png) Qubicgen GitHub Repository 🌟
 
 Welcome to the official GitHub repository for **Qubicgen**! We are a forward-thinking software company dedicated to crafting innovative solutions across diverse domains like **RPA, SAP, cybersecurity, web development**, and more. Our passion is technology; our goal is excellence. 🚀
 
