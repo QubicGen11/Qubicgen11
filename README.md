@@ -21,7 +21,6 @@ At Qubicgen, we believe in pushing boundaries and redefining what's possible. We
 ### 📚 **School Management System (SMS)**
 A comprehensive platform that streamlines school operations with features like student/staff management, timetable scheduling, attendance tracking, and fee processing. Built with **React Native** and **PostgreSQL**, our SMS app is available on both Android and iOS.
 
-![SMS Project](./assets/sms-project.png)
 
 ### 🏢 **Employee Management System (EMS)**
 Efficiently handle employee records, timesheets, leave management, and payroll. Developed with a modern stack including **Node.js**, **Express.js**, and **Prisma**.
