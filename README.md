@@ -128,7 +128,7 @@ Push to your fork and submit a pull request.
 📝 License
 <p>This repository is licensed under the MIT License. See the <a href="./LICENSE">LICENSE</a> file for more details.</p>
 📬 Contact
-<p>For more information, reach us at <a href="mailto:info@qubicgen.com">info@qubicgen.com</a>.</p>
+<p>For more information, reach us at <a href="mailto:support@qubicgen.com">support@qubicgen.com</a>.</p>
 🔗 Connect with Us!
 <p>Follow Qubicgen on <a href="https://www.linkedin.com/company/qubicgen">LinkedIn</a>, <a href="https://twitter.com/qubicgen">Twitter</a>, and <a href="https://www.facebook.com/qubicgen">Facebook</a>.</p>
 
