@@ -1,62 +1,91 @@
- Qubicgen GitHub Repository 🌟
-Welcome to the official GitHub repository for Qubicgen! We are a forward-thinking software company dedicated to crafting innovative solutions across diverse domains like RPA, SAP, cybersecurity, web development, and more. Our passion is technology; our goal is excellence. 🚀
+# ![Qubicgen Logo](./assets/qubicgen-logo.png) Qubicgen GitHub Repository 🌟
 
+Welcome to the official GitHub repository for **Qubicgen**! We are a forward-thinking software company dedicated to crafting innovative solutions across diverse domains like **RPA, SAP, cybersecurity, web development**, and more. Our passion is technology; our goal is excellence. 🚀
 
-🌟 Our Vision
-"Empowering businesses through technology, innovation, and expertise."
+---
 
-At Qubicgen, we believe in pushing boundaries and redefining what's possible. We are not just a tech company; we are a partner in your digital transformation journey. From automating routine processes to building secure, scalable, and user-friendly applications, we bring the best of technology to you.
+![Creative Banner](./assets/banner.png)
 
-🚀 Featured Projects
-📚 School Management System (SMS)
-A comprehensive platform that streamlines school operations with features like student/staff management, timetable scheduling, attendance tracking, and fee processing. Built with React Native and PostgreSQL, our SMS app is available on both Android and iOS.
+## 🌟 Our Vision
 
+> "Empowering businesses through technology, innovation, and expertise."
 
-🏢 Employee Management System (EMS)
-Efficiently handle employee records, timesheets, leave management, and payroll. Developed with a modern stack including Node.js, Express.js, and Prisma.
+At Qubicgen, we believe in pushing boundaries and redefining what's possible. We are not just a tech company; we are a **partner in your digital transformation journey**. From automating routine processes to building secure, scalable, and user-friendly applications, we bring the best of technology to you.
 
+---
 
-🔒 Cybersecurity Solutions
-Protect your data and ensure compliance with our state-of-the-art cybersecurity tools and frameworks. We specialize in OWASP, SIEM Tools, and Penetration Testing.
+## 🚀 Featured Projects
 
+### 📚 **School Management System (SMS)**
+A comprehensive platform that streamlines school operations with features like student/staff management, timetable scheduling, attendance tracking, and fee processing. Built with **React Native** and **PostgreSQL**, our SMS app is available on both Android and iOS.
 
-🌐 Web Development Projects
-From single-page applications to complex web platforms, we leverage React.js, Angular, and other cutting-edge technologies to deliver outstanding web experiences.
+![SMS Project](./assets/sms-project.png)
 
+### 🏢 **Employee Management System (EMS)**
+Efficiently handle employee records, timesheets, leave management, and payroll. Developed with a modern stack including **Node.js**, **Express.js**, and **Prisma**.
 
-🛠 Tech Stack
-Our diverse tech stack allows us to tackle a variety of projects with precision and efficiency:
+![EMS Project](./assets/ems-project.png)
 
-Frontend: React.js, React Native, Angular
-Backend: Node.js, Express.js, Django, Flask
-Databases: PostgreSQL, MongoDB, MySQL
-DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
-Cloud Platforms: AWS, Azure, Google Cloud
-📖 General Guidelines
-📝 Code of Conduct
-Respect all contributors.
-Foster inclusivity and collaboration.
-Maintain a professional tone in all communications.
-📚 Coding Standards
-Adhere to language-specific best practices.
-Use consistent naming conventions and maintain clean code.
-Write unit tests and ensure all code passes before merging.
-🌳 Branching Strategy
-Main: Production-ready code.
-Develop: Features under development.
-Feature/{feature-name}: Individual features.
-Hotfix/{issue-id}: Urgent production fixes.
-🖥️ Development Environment Setup
-Prerequisites
-Git, Node.js, npm, and Docker
-PostgreSQL or MongoDB (as per project requirements)
-Local Setup
-Clone the repository:
+### 🔒 **Cybersecurity Solutions**
+Protect your data and ensure compliance with our state-of-the-art cybersecurity tools and frameworks. We specialize in **OWASP**, **SIEM Tools**, and **Penetration Testing**.
 
-bash
-Copy code
-git clone https://github.com/qubicgen/{project-name}.git
-cd {project-name}
+![Cybersecurity](./assets/cybersecurity.png)
+
+### 🌐 **Web Development Projects**
+From single-page applications to complex web platforms, we leverage **React.js**, **Angular**, and other cutting-edge technologies to deliver outstanding web experiences.
+
+![Web Development](./assets/web-development.png)
+
+---
+
+## 🛠 Tech Stack
+
+<p>Our diverse tech stack allows us to tackle a variety of projects with precision and efficiency:</p>
+
+- **Frontend**: React.js, React Native, Angular
+- **Backend**: Node.js, Express.js, Django, Flask
+- **Databases**: PostgreSQL, MongoDB, MySQL
+- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+
+---
+
+## 📖 General Guidelines
+
+### 📝 Code of Conduct
+
+- **Respect** all contributors.
+- **Foster inclusivity** and collaboration.
+- Maintain a **professional tone** in all communications.
+
+### 📚 Coding Standards
+
+- Adhere to language-specific best practices.
+- Use consistent naming conventions and maintain clean code.
+- Write unit tests and ensure all code passes before merging.
+
+### 🌳 Branching Strategy
+
+- **Main**: Production-ready code.
+- **Develop**: Features under development.
+- **Feature/{feature-name}**: Individual features.
+- **Hotfix/{issue-id}**: Urgent production fixes.
+
+---
+
+## 🖥️ Development Environment Setup
+
+### Prerequisites
+
+- **Git**, **Node.js**, **npm**, and **Docker**
+- **PostgreSQL** or **MongoDB** (as per project requirements)
+
+### Local Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/qubicgen/{project-name}.git
+   cd {project-name}
 Install dependencies:
 
 bash
@@ -96,14 +125,11 @@ Create a branch (feature/your-feature).
 Commit your changes.
 Push to your fork and submit a pull request.
 📝 License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
+<p>This repository is licensed under the MIT License. See the <a href="./LICENSE">LICENSE</a> file for more details.</p>
 📬 Contact
-For more information, reach us at info@qubicgen.com.
-
+<p>For more information, reach us at <a href="mailto:info@qubicgen.com">info@qubicgen.com</a>.</p>
 🔗 Connect with Us!
-Follow Qubicgen on LinkedIn, Twitter, and Facebook.
-
+<p>Follow Qubicgen on <a href="https://www.linkedin.com/company/qubicgen">LinkedIn</a>, <a href="https://twitter.com/qubicgen">Twitter</a>, and <a href="https://www.facebook.com/qubicgen">Facebook</a>.</p>
 
 🌠 Join Us!
-We are always on the lookout for talented individuals passionate about technology and innovation. Check out our careers page to join the Qubicgen family!
+<p>We are always on the lookout for talented individuals passionate about technology and innovation. Check out our <a href="https://qubicgen.com/careers">careers page</a> to join the Qubicgen family!</p>
